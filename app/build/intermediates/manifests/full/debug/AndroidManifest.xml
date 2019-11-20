@@ -15,7 +15,7 @@
   limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ngamolsky.android.materialme"
+    package="com.ngamolsky.android.P2_Colado_Carlos"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -31,14 +31,14 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.android.materialme.MainActivity" >
+        <activity android:name="com.example.android.P2_Colado_Carlos.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.android.materialme.DetailActivity" />
+        <activity android:name="com.example.android.P2_Colado_Carlos.DetailActivity" />
 
         <meta-data
             android:name="android.support.VERSION"

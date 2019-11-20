@@ -23,7 +23,7 @@ INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\ap
 INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
 INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
 	package
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:17:5-45
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:17:5-51
 		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -78,10 +78,10 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ccola\.gradle\caches
 		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
 		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:24:9-40
-activity#com.example.android.materialme.MainActivity
+activity#com.example.android.P2_Colado_Carlos.MainActivity
 ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:25:19-83
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
@@ -92,10 +92,10 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
 		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:29:27-74
-activity#com.example.android.materialme.DetailActivity
-ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:32:9-61
+activity#com.example.android.P2_Colado_Carlos.DetailActivity
+ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:32:9-97
 	android:name
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:32:19-49
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:32:19-85
 uses-sdk
 INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
