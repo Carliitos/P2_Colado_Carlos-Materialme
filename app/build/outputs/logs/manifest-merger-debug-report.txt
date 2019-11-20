@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cc3e3bce4452bcdbf5885f78bde2ac5d\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\75499b5722cf9a908100933b5a067512\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\025fe2e12470a54ed6e5967b94b639a1\AndroidManifest.xml:17:1-28:12
@@ -19,25 +19,25 @@ MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ccola\.gr
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\28dd61759fe688f3f1cd8b4c845f6562\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\868dd248ab837e5387c3778a3b3b4d22\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\42a40f7e08f09d9645f2e9ab79fa8fbe\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
 	package
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:17:5-45
-		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:17:5-45
+		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
-		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
+		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
-		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:1-35:12
+		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:11-69
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:16:11-69
 application
-ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:19:5-33:19
+ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:19:5-33:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cc3e3bce4452bcdbf5885f78bde2ac5d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cc3e3bce4452bcdbf5885f78bde2ac5d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\75499b5722cf9a908100933b5a067512\AndroidManifest.xml:25:5-29:19
@@ -69,37 +69,37 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ccola\.gradle\c
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\42a40f7e08f09d9645f2e9ab79fa8fbe\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\42a40f7e08f09d9645f2e9ab79fa8fbe\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:23:9-35
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:23:9-35
 	android:label
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:22:9-41
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:22:9-41
 	android:icon
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:21:9-43
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:24:9-40
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:24:9-40
 activity#com.example.android.materialme.MainActivity
-ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:25:9-31:20
+ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:25:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:29:27-74
 activity#com.example.android.materialme.DetailActivity
-ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:32:9-61
+ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:32:9-61
 	android:name
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml:32:19-49
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml:32:19-49
 uses-sdk
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cc3e3bce4452bcdbf5885f78bde2ac5d\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cc3e3bce4452bcdbf5885f78bde2ac5d\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\75499b5722cf9a908100933b5a067512\AndroidManifest.xml:21:5-23:78
@@ -130,18 +130,18 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ccola\.gradle\c
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\868dd248ab837e5387c3778a3b3b4d22\AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\42a40f7e08f09d9645f2e9ab79fa8fbe\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\42a40f7e08f09d9645f2e9ab79fa8fbe\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cc3e3bce4452bcdbf5885f78bde2ac5d\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ccola\AndroidStudioProjects\MaterialMe-ResourceProject\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cc3e3bce4452bcdbf5885f78bde2ac5d\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ccola\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\75499b5722cf9a908100933b5a067512\AndroidManifest.xml:26:9-28:38
